@@ -1,3 +1,6 @@
+
+Needed 3 containers for whole process 
+
 On this template
 1. Link Kong to either a Cassandra or PostgreSQL container
 Cassandra
