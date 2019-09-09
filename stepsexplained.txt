@@ -1,0 +1,10 @@
+On this template
+1. Link Kong to either a Cassandra or PostgreSQL container
+Cassandra
+Postgres
+2. Prepare your database
+Start Kong
+3. Use Kong with a custom configuration (and a custom Cassandra/PostgreSQL cluster)
+Reload Kong in a running container
+Kong should be running and it should coontain some of the entities added  in kong.yml
+curl -i http://localhost:8001/
